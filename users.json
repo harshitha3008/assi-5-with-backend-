@@ -1,0 +1,44 @@
+[
+  {
+    "fullName": "harshitha",
+    "username": "harsh30.08",
+    "email": "lingama@gmail.com",
+    "phone": "9392432403",
+    "password": "harshitha#123"
+  },
+  {
+    "fullName": "pandu",
+    "username": "pandu07.09",
+    "email": "pandu123@gmail.com",
+    "phone": "7993084292",
+    "password": "Pandu#123"
+  },
+  {
+    "fullName": "harshaaa",
+    "username": "lucky08",
+    "email": "harsha08@gmail.com",
+    "phone": "6301263539",
+    "password": "lucky08"
+  },
+  {
+    "fullName": "vyshnavi",
+    "username": "vyshnavi0410",
+    "email": "musalamaduguvyshnavi@gmail.com",
+    "phone": "7981930108",
+    "password": "vyshu#1234"
+  },
+  {
+    "fullName": "nikhil",
+    "username": "nikhil0103",
+    "email": "nikhil@gmail.com",
+    "phone": "123456789",
+    "password": "nikhil"
+  },
+  {
+    "fullName": "abcd",
+    "username": "abcd123",
+    "email": "example@gmail.com",
+    "phone": "12345",
+    "password": "abcd123"
+  }
+]
